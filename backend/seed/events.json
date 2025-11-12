@@ -1,0 +1,157 @@
+[
+  {
+    "eventId": "seed_001",
+    "title": "Downtown Jazz Night",
+    "description": "An evening of live jazz with local artists.",
+    "category": "music",
+    "startDate": "2025-11-20T19:00:00.000Z",
+    "endDate": "2025-11-20T22:00:00.000Z",
+    "venue": {
+      "name": "Riverfront Club",
+      "address": "12 River St",
+      "city": "Baltimore",
+      "state": "MD",
+      "postalCode": "21201",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -76.609,
+          39.286
+        ]
+      }
+    },
+    "price": {
+      "min": 10,
+      "max": 30,
+      "currency": "USD"
+    },
+    "url": "https://example.com/downtown-jazz",
+    "image": "",
+    "source": "seed",
+    "raw": {}
+  },
+  {
+    "eventId": "seed_002",
+    "title": "Community 5K Run",
+    "description": "A family-friendly 5K to support local parks.",
+    "category": "sports",
+    "startDate": "2025-11-21T09:00:00.000Z",
+    "endDate": "2025-11-21T12:00:00.000Z",
+    "venue": {
+      "name": "Green Park",
+      "address": "200 Park Ave",
+      "city": "Annapolis",
+      "state": "MD",
+      "postalCode": "21401",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -76.491,
+          38.978
+        ]
+      }
+    },
+    "price": {
+      "min": 0,
+      "max": 25,
+      "currency": "USD"
+    },
+    "url": "https://example.com/5k",
+    "image": "",
+    "source": "seed",
+    "raw": {}
+  },
+  {
+    "eventId": "seed_003",
+    "title": "Art Walk: Eastside",
+    "description": "Gallery openings and street art tours on Eastside.",
+    "category": "art",
+    "startDate": "2025-11-22T17:00:00.000Z",
+    "endDate": "2025-11-22T21:00:00.000Z",
+    "venue": {
+      "name": "Eastside District",
+      "address": "Various",
+      "city": "Hyattsville",
+      "state": "MD",
+      "postalCode": "20781",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -76.947,
+          38.951
+        ]
+      }
+    },
+    "price": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "url": "https://example.com/art-walk",
+    "image": "",
+    "source": "seed",
+    "raw": {}
+  },
+  {
+    "eventId": "seed_004",
+    "title": "Volunteer: Park Cleanup",
+    "description": "Help clean up River Park \u2014 tools provided.",
+    "category": "volunteer",
+    "startDate": "2025-11-23T08:00:00.000Z",
+    "endDate": "2025-11-23T12:00:00.000Z",
+    "venue": {
+      "name": "River Park",
+      "address": "10 River Lane",
+      "city": "College Park",
+      "state": "MD",
+      "postalCode": "20740",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -76.937,
+          38.986
+        ]
+      }
+    },
+    "price": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "url": "https://example.com/cleanup",
+    "image": "",
+    "source": "seed",
+    "raw": {}
+  },
+  {
+    "eventId": "seed_005",
+    "title": "Family Movie Night",
+    "description": "Outdoor screening at the community center.",
+    "category": "family",
+    "startDate": "2025-11-24T19:30:00.000Z",
+    "endDate": "2025-11-24T22:00:00.000Z",
+    "venue": {
+      "name": "Maple Community Center",
+      "address": "1 Maple St",
+      "city": "Columbia",
+      "state": "MD",
+      "postalCode": "21044",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -76.87,
+          39.203
+        ]
+      }
+    },
+    "price": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "url": "https://example.com/movie-night",
+    "image": "",
+    "source": "seed",
+    "raw": {}
+  }
+]
